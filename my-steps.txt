@@ -128,7 +128,10 @@ git push -u origin main
 
 ### Step 6
 
-
+mkdir menu.txt
+git add .
+git commit -m "Updated commit"
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
